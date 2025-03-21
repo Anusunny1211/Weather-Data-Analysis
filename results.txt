@@ -1,0 +1,5 @@
+Average Max Temperature: 20.55°C
+Average Rainfall: 1.43 mm
+Mean Squared Error for Rainfall Prediction: 37.0768
+Highest Rainfall Recorded: 39.80 mm
+Lowest Rainfall Recorded: 0.00 mm
